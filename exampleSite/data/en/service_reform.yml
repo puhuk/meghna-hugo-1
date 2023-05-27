@@ -1,0 +1,78 @@
+#################################### portfolio ###############################
+service:
+  enable : true
+  title : Our Services
+  portfolio_item :
+    # portfolio item loop
+    - name : Imaginator
+      image : images/portfolio/portfolio-1.jpg
+      video : videos/imaginator.mp4
+      image_webp : images/portfolio/portfolio-1.webp
+      # categories : ["design"]
+      content : Imaginator is O.C's image editing solution. Upload any images want to edit then just type what you want.
+      link : "https://themefisher.com"
+      
+    # portfolio item loop
+    - name : Kidzrector
+      image : images/portfolio/portfolio-2.jpg
+      image_webp : images/portfolio/portfolio-2.webp
+      # categories : ["development"]
+      content : Kidzrector is O.C's video creating solution for kids. Upload your kids' drawings and their creativity. Awesome videos will come out.
+      link : ""
+      
+    # portfolio item loop
+    - name : Toonimator
+      image : images/portfolio/portfolio-3.jpg
+      image_webp : images/portfolio/portfolio-3.webp
+      # categories : ["design", "development"]
+      content : Toonimator is O.C's web contents creation solution. Just input keywords and upload some characters' images. We draw for you.
+      link : "#"
+    
+    
+    # # portfolio item loop
+    # - name : Bottol Label
+    #   image : images/portfolio/portfolio-4.jpg
+    #   image_webp : images/portfolio/portfolio-4.webp
+    #   # categories : ["photography", "development"]
+    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #   link : "#"
+      
+    # # portfolio item loop
+    # - name : Shopping Bag
+    #   image : images/portfolio/portfolio-5.jpg
+    #   image_webp : images/portfolio/portfolio-5.webp
+    #   # categories : ["design"]
+    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #   link : "#"
+      
+    # # portfolio item loop
+    # - name : Tag Design
+    #   image : images/portfolio/portfolio-6.jpg
+    #   image_webp : images/portfolio/portfolio-6.webp
+    #   # categories : ["photography"]
+    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #   link : "#"
+      
+    # # portfolio item loop
+    # - name : Business Card
+    #   image : images/portfolio/portfolio-7.jpg
+    #   image_webp : images/portfolio/portfolio-7.webp
+    #   # categories : ["development"]
+    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #   link : "#"
+      
+    # # portfolio item loop
+    # - name : Stationary Design
+    #   image : images/portfolio/portfolio-8.jpg
+    #   image_webp : images/portfolio/portfolio-8.webp
+    #   # categories : ["design", "development"]
+    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #   link : "#"
+      
+    # # portfolio item loop
+    # - name : Tag Design
+    #   image : images/portfolio/portfolio-2.jpg
+    #   image_webp : images/portfolio/portfolio-2.webp
+    #   # categories : ["design", "photography"]
+    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #   link : "#"

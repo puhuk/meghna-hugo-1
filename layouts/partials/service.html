@@ -25,6 +25,7 @@
 					</div>
 					<h3>{{ .name | markdownify }}</h3>
 					<p>{{ .content | markdownify }}</p>
+					<iframe width="260" height="165" src={{ .video | markdownify }}></iframe>
 				</div>
 			</article>
 			{{"<!-- End Single Service Item -->" | safeHTML }}

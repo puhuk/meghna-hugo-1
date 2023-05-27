@@ -4,31 +4,33 @@ service:
   title : Our Services
   service_item :
     # service item loop
-    - name : WordPress Theme
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+    - name : Imaginator
+      icon : ti-bolt # themify icon pack : https://themify.me/themify-icons
+      content : Imaginator is O.C's image editing solution. Upload any images want to edit then just type what you want.
+      video : videos/imaginator.mp4
     # service item loop
-    - name : Responsive Design
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+    - name : Kidzrector
+      icon : ti-infinite # themify icon pack : https://themify.me/themify-icons
+      content : Kidzrector is O.C's video creating solution for kids. Upload your kids' drawings and their creativity. Awesome videos will come out.              
+      video : videos/kidirector.mp4
+
     # service item loop
-    - name : Media &amp; Advertisement
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Graphic Design
+    - name : Toonimator
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Toonimator is O.C's web contents creation solution. Just input keywords and characters' images. We draw for you.
+      video : videos/toonimator.mp4
+
+    # # service item loop
+    # - name : Graphic Design
+    #   icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+    #   content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
-    # service item loop
-    - name : Apps Development
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    # # service item loop
+    # - name : Apps Development
+    #   icon : ti-package # themify icon pack : https://themify.me/themify-icons
+    #   content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
-    # service item loop
-    - name : Networking
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    # # service item loop
+    # - name : Networking
+    #   icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+    #   content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
